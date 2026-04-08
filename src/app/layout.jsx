@@ -22,6 +22,7 @@ export const viewport = {
 };
 
 export const metadata = {
+  metadataBase: new URL("https://tutorhub.com"),
   title: {
     default: "TutorHub | Personalized Online Tutoring & Academic Excellence",
     template: "%s | TutorHub",
